@@ -1,0 +1,11 @@
+C:\Users\jhost\source\repos\AgendasMulticapa\Capa_negocios\bin\Debug\Capa_negocios.dll
+C:\Users\jhost\source\repos\AgendasMulticapa\Capa_negocios\bin\Debug\Capa_negocios.pdb
+C:\Users\jhost\source\repos\AgendasMulticapa\Capa_negocios\bin\Debug\Capa_datos.dll
+C:\Users\jhost\source\repos\AgendasMulticapa\Capa_negocios\bin\Debug\Capa_entidad.dll
+C:\Users\jhost\source\repos\AgendasMulticapa\Capa_negocios\bin\Debug\Capa_datos.pdb
+C:\Users\jhost\source\repos\AgendasMulticapa\Capa_negocios\bin\Debug\Capa_entidad.pdb
+C:\Users\jhost\source\repos\AgendasMulticapa\Capa_negocios\obj\Debug\Capa_negocios.csproj.AssemblyReference.cache
+C:\Users\jhost\source\repos\AgendasMulticapa\Capa_negocios\obj\Debug\Capa_negocios.csproj.CoreCompileInputs.cache
+C:\Users\jhost\source\repos\AgendasMulticapa\Capa_negocios\obj\Debug\Capa_negocios.csproj.CopyComplete
+C:\Users\jhost\source\repos\AgendasMulticapa\Capa_negocios\obj\Debug\Capa_negocios.dll
+C:\Users\jhost\source\repos\AgendasMulticapa\Capa_negocios\obj\Debug\Capa_negocios.pdb
